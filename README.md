@@ -12,9 +12,9 @@ The **Student Management System** is a web-based or desktop application designed
 
 ## Technologies Used
 
-- **Programming Language:** Specify the programming language (e.g., Python, Java, JavaScript).
-- **Frameworks/Libraries:** Mention frameworks or libraries (e.g., Django, Flask, React, etc.).
-- **Database:** Specify the database technology used (e.g., MySQL, PostgreSQL).
+- **Programming Language:** Specify the programming language  Java.
+- **Frameworks/Libraries:** Mention frameworks or libraries  Flask.
+- **Database:** Specify the database technology used MySQL.
 - **Other Tools:** Include any other tools or technologies utilized in the project.
 
 ## Installation
